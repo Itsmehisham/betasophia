@@ -32,6 +32,11 @@
             "required": true,
             "value": "https://i.imgur.com/ZoA7as9.mp4"
         },
+	"FULL_ALEXA": {
+            "description": "Turn your account into a chatbot! Replys To The Private chat messages by the Alexa Chatbot.",
+            "required": true,
+            "value": "true"
+        },
         "GIF_BYE": {
             "description": "Goodbye message video നിങ്ങൾക്ക് വേണ്ട goodbye gif ന്റെ link കൊടുക്കുക .",
             "required": true,
